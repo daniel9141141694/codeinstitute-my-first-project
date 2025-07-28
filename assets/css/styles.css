@@ -6,3 +6,11 @@ body {
 h2 {
     color: orangered;
 }
+
+p {
+    color: bold;
+}
+
+#text-center {
+    text-align: center;
+}

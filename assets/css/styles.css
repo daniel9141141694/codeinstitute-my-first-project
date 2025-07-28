@@ -8,7 +8,7 @@ h2 {
 }
 
 p {
-    color: bold;
+    font-weight: bold;
 }
 
 #text-center {
